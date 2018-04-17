@@ -1,0 +1,148 @@
+.container-fluid {
+  padding: 0px;
+  background-color: black; }
+
+h2 {
+  border-left: 5px solid #FE423E;
+  padding: 10px; }
+
+.principaltitrecine {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-size: 40px;
+  font-weight: bold;
+  color: white; }
+
+.red {
+  color: #FE4240; }
+
+.onlinemovies {
+  color: blue; }
+  .onlinemovies button {
+    border-radius: none; }
+
+#carouselimg {
+  position: relative;
+  opacity: 0.7;
+  z-index: 1; }
+
+.carousel-indicators {
+  margin-top: -50px; }
+
+.carousel-item img {
+  width: 100% !important;
+  height: auto !important;
+  margin: 6px; }
+
+.menutitrecine {
+  display: flex;
+  flex-direction: row; }
+
+#carousel1 img {
+  width: 100%;
+  height: auto; }
+
+.logintitrecine {
+  padding-left: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  position: relative;
+  width: 100%;
+  height: auto;
+  background-color: #FE4240;
+  color: white; }
+  .logintitrecine button {
+    background-color: black;
+    color: white;
+    border: none; }
+
+#allezcine {
+  position: absolute;
+  width: 100%;
+  height: auto;
+  margin-left: 0;
+  margin-right: 0;
+  z-index: 2; }
+
+.fa {
+  color: white; }
+
+.row {
+  margin-left: 0;
+  margin-right: 0; }
+
+.imagescarousel {
+  padding-left: 0 !important;
+  padding-right: 0 !important; }
+
+.boutonNoir {
+  background-color: black;
+  color: white; }
+
+.stylish-input-group .input-group-addon {
+  background: white !important; }
+
+.stylish-input-group .form-control {
+  border-right: 0;
+  box-shadow: 0 0 0;
+  border-color: #ccc; }
+
+.stylish-input-group button {
+  border: 0;
+  background: transparent; }
+
+.featuredmoviesbutton button {
+  background-color: #FE4140;
+  color: white;
+  border: none;
+  padding: 1%;
+  font-weight: bold; }
+
+.featuredseriesbutton button {
+  background-color: #FE4140;
+  color: white;
+  border: none;
+  padding: 1%;
+  font-weight: bold; }
+
+.shopmovies {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap; }
+
+#fontawesome li {
+  list-style: none;
+  display: inline;
+  margin: 1px;
+  padding: 2px;
+  background-color: black; }
+
+input {
+  border: 1px solid #BBB7B3;
+  border-radius: 0;
+  margin: 3px; }
+
+#submit {
+  background-color: #FF423E;
+  color: white; }
+
+footer {
+  background-color: black;
+  color: white; }
+
+.foot {
+  font-size: 10px; }
+  .foot a {
+    font-weight: bold;
+    color: white;
+    margin: 2px;
+    padding: 2px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: #65645C; }
+
+/*# sourceMappingURL=style.css.map */
